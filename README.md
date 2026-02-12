@@ -5,7 +5,7 @@
 [![Build: Windows](https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#)
 [![Style: CustomTkinter](https://img.shields.io/badge/UI-CustomTkinter-eb6134?style=for-the-badge)](https://github.com/TomSchimansky/CustomTkinter)
 
-> **"今時WEBツールとしてたくさんありますが、サイト上にアップロードしたくないときがあるのでWindowsローカルで動く画像ファイル変換ソフトとして軽量なものを用意してみました"**
+> **今時WEBツールとしてたくさんありますが、サイト上にアップロードしたくないときがあるのでWindowsローカルで動く画像ファイル変換ソフトとして軽量なものを用意してみました**
 
 ---
 
