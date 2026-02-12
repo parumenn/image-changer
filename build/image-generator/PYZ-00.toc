@@ -856,9 +856,19 @@
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\tkinter\\simpledialog.py',
    'PYMODULE'),
+  ('tkinter.tix',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\tkinter\\tix.py',
+   'PYMODULE'),
   ('tkinter.ttk',
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\lib\\tkinter\\ttk.py',
+   'PYMODULE'),
+  ('tkinterdnd2',
+   'C:\\Users\\thong\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python310\\site-packages\\tkinterdnd2\\__init__.py',
+   'PYMODULE'),
+  ('tkinterdnd2.TkinterDnD',
+   'C:\\Users\\thong\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python310\\site-packages\\tkinterdnd2\\TkinterDnD.py',
    'PYMODULE'),
   ('token',
    'C:\\Program '
