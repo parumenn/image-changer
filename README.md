@@ -9,7 +9,7 @@
 
 ---
 
-## ▼ Key Features
+## ▼ コンテンツ概要
 
 本ツールは、プライバシーを重視するユーザーのために開発された、完全ローカル動作の画像処理アプリケーションです。
 
@@ -22,15 +22,16 @@
 
 ---
 
-## ▼ Screenshots
+## ▼ スクリーンショット
 
 | メイン画面 | 処理実行イメージ |
 |:---:|:---:|
-| <img src="https://via.placeholder.com/400x300.png?text=Main+GUI+Image" width="400"> | <img src="https://via.placeholder.com/400x300.png?text=Processing+Image" width="400"> |
+| <img width="1094" height="820" alt="image" src="https://github.com/user-attachments/assets/ec172a34-2523-402d-aa8d-723282caf736" width="400"> | <img width="1095" height="834" alt="image" src="https://github.com/user-attachments/assets/b8305269-f856-44f6-9b18-258f58b7bcab" width="400"> |
+
 
 ---
 
-## ▼ Installation & Usage
+## ▼ 使用ガイド
 
 ### 1. 実行ファイルで使用する場合 (.exe)
 `dist/converter_pro.exe` をダウンロードして実行してください。インストールは不要です。
