@@ -1,4 +1,4 @@
-# 🖼️ 画像形式コンバーター
+# 画像形式/サイズコンバーター
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
@@ -17,9 +17,8 @@
 * **・ 柔軟なリサイズ**:
     * 固定ピクセル指定（Width x Height）
     * パーセント指定による一括拡大・縮小
-* **・ スマートリネーム**: 独自の接頭辞＋連番（例: `yukino_photo_1.png`）への自動リネーム。
-* **・ モダンなUI**: `CustomTkinter` を採用し、Windows 11に馴染むダークモード対応のデザイン。
-* **・ プライバシー保護**: クラウドに画像をアップロードせず、すべての処理をあなたのPC内（ローカル）で完結。
+* **・ スマートリネーム**: 独自の接頭辞＋連番（例: `rename.png`）への自動リネーム。
+* **・ プライバシー重視!!**: クラウドに画像をアップロードせず、すべての処理をあなたのPC内（ローカル）で完結。
 
 ---
 
@@ -39,7 +38,7 @@
 ### 2. ソースコードから実行する場合
 ```bash
 # リポジトリをクローン
-git clone [https://github.com/parumenn/image-changer]
+git clone [https://github.com/parumenn/image-changer](https://github.com/parumenn/image-changer)
 
 # 必要ライブラリのインストール
 pip install customtkinter Pillow
